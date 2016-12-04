@@ -24,7 +24,8 @@
 
 
 ## 目錄
-1. [Day1 - [Leetcode-1/30][String] 前言、主題、#344 Reverse String](https://github.com/xxhomey19/leetcode-30days/tree/master/Day1)  
+1. [Day1 - [LeetCode-1/30][String] 前言、主題、#344 Reverse String](https://github.com/xxhomey19/leetcode-30days/tree/master/Day1)  
+2. [Day2 - [LeetCode-2/30][String] #3 Longest Substring Without Repeating Characters String](https://github.com/xxhomey19/leetcode-30days/tree/master/Day2)  
 
 
 ref:  
