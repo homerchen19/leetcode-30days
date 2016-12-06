@@ -26,7 +26,7 @@
 ## 目錄
 1. [Day1 - [LeetCode-1/30][String] 前言、主題、#344 Reverse String](https://github.com/xxhomey19/leetcode-30days/tree/master/Day1)  
 2. [Day2 - [LeetCode-2/30][String] #3 Longest Substring Without Repeating Characters String](https://github.com/xxhomey19/leetcode-30days/tree/master/Day2)  
-
+2. [Day3 - [LeetCode-3/30][String] #214 Shortest Palindrome ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day3)  
 
 ref:  
 [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)  
