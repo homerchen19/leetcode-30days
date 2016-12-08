@@ -28,6 +28,7 @@
 2. [Day2 - [LeetCode-2/30][String] #3 Longest Substring Without Repeating Characters String](https://github.com/xxhomey19/leetcode-30days/tree/master/Day2)  
 3. [Day3 - [LeetCode-3/30][String] #214 Shortest Palindrome ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day3)  
 4. [Day4 - [LeetCode-4/30][Array] #1 Two Sum ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day4)  
+5. [Day5 - [LeetCode-5/30][Array] #209 Minimum Size Subarray Sum ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day5)  
 
 ref:  
 [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)  
