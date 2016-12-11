@@ -31,6 +31,7 @@
 5. [Day5 - [LeetCode-5/30][Array] #209 Minimum Size Subarray Sum ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day5)  
 6. [Day6 - [LeetCode-6/30][Array] #442 Find All Duplicates in an Array ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day6)  
 7. [Day7 - [LeetCode-7/30][Matrix] #59 Spiral Matrix II ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day7)  
+8. [Day8 - [Leetcode-8/30][Matrix] #54 Spiral Matrix](https://github.com/xxhomey19/leetcode-30days/tree/master/Day8)  
 
 ref:  
 [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)  
