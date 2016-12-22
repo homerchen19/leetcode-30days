@@ -31,7 +31,7 @@
 5. [Day5 - [LeetCode-5/30][Array] #209 Minimum Size Subarray Sum ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day5)  
 6. [Day6 - [LeetCode-6/30][Array] #442 Find All Duplicates in an Array ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day6)  
 7. [Day7 - [LeetCode-7/30][Matrix] #59 Spiral Matrix II ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day7)  
-8. [Day8 - [Leetcode-8/30][Matrix] #54 Spiral Matrix](httpsu6://github.com/xxhomey19/leetcode-30days/tree/master/Day8)  
+8. [Day8 - [Leetcode-8/30][Matrix] #54 Spiral Matrix](https://github.com/xxhomey19/leetcode-30days/tree/master/Day8)  
 9. [Day9 - [Leetcode-9/30][Matrix] #73 Set Matrix Zeroes Matrix](https://github.com/xxhomey19/leetcode-30days/tree/master/Day9)  
 10. [Day10 - [Leetcode-10/30][Linked List] #141 Linked List Cycle](https://github.com/xxhomey19/leetcode-30days/tree/master/Day10)  
 11. [Day 11 - [Leetcode-11/30][Linked List] #82 Remove Duplicates from Sorted List II ](https://github.com/xxhomey19/leetcode-30days/tree/master/Day11)  
@@ -42,6 +42,7 @@
 16. [Day 16 - [Leetcode-16/30][Graph] #207 Course Schedule](https://github.com/xxhomey19/leetcode-30days/tree/master/Day16)  
 17. [Day 17 - [Leetcode-17/30][Graph] #210 Course Schedule II](https://github.com/xxhomey19/leetcode-30days/tree/master/Day17)  
 18. [Day 18 - [Leetcode-18/30][Graph] #133 Clone Graph](https://github.com/xxhomey19/leetcode-30days/tree/master/Day18)  
+19. [Day 19 - [Leetcode-19/30][Tree] #75 Sort Colors](https://github.com/xxhomey19/leetcode-30days/tree/master/Day19)  
 
 ref:  
 [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)  
