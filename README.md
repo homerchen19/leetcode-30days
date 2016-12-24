@@ -44,6 +44,7 @@
 18. [Day 18 - [Leetcode-18/30][Graph] #133 Clone Graph](https://github.com/xxhomey19/leetcode-30days/tree/master/Day18)  
 19. [Day 19 - [Leetcode-19/30][Sort] #75 Sort Colors](https://github.com/xxhomey19/leetcode-30days/tree/master/Day19)  
 20. [Day 20 - [Leetcode-20/30][Sort] #179 Largest Number](https://github.com/xxhomey19/leetcode-30days/tree/master/Day20)  
+21. [Day 21 - [Leetcode-21/30][Sort] #274 H-index](https://github.com/xxhomey19/leetcode-30days/tree/master/Day21)  
 
 ref:  
 [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)  
