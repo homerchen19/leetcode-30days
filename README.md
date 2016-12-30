@@ -53,6 +53,7 @@
 27. [Day 27 - [Leetcode-27/30][Bit Manipulation] #371 Sum of Two Integers](https://github.com/xxhomey19/leetcode-30days/tree/master/Day27)  
 28. [Day 28 - [Leetcode-28/30][Permutations] #46 Permutations Integers](https://github.com/xxhomey19/leetcode-30days/tree/master/Day28)  
 29. [Day 29 - [Leetcode-29/30][Combinations] #77 Combinations](https://github.com/xxhomey19/leetcode-30days/tree/master/Day29)  
+30. [Day 30 - [Leetcode-30/30][Combinations] #39 Combination Sum、結語](https://github.com/xxhomey19/leetcode-30days/tree/master/Day30)  
 
 ref:  
 [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)  
